@@ -7,6 +7,7 @@ public class MyMain {
         if (ch>=65 && ch<=90){
             char x=(char)(ch+32);
             return x;
+
         }
         return ch;
     }
